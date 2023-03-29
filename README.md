@@ -1,2 +1,2 @@
 # MyApp
-Just a Maven + CI-CD Test, modified
+Just a Maven + CI-CD Test, modified per Matteo
